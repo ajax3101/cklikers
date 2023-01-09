@@ -14,8 +14,10 @@ def kliker():
             time.sleep(0.1)
             
 
-def toggle_event():
-    pass
+def toggle_event(key):
+    if key == toggle_key:
+        global cliking
+        cliking = not cliking
 
 def main():
     pass
