@@ -1,0 +1,2 @@
+# cklikers
+Кликер на Python
